@@ -1,4 +1,4 @@
-//Editorial: This is a easy problem everyone can get it.
+//Editorial: The solution is itself much intuitive. It can be much clear after dry running for once or many times.
 // Prithvijit Basak
 #include<iostream>
 #include<algorithm>
